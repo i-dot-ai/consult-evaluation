@@ -1,7 +1,7 @@
 # Consult Evaluation
 
 ## About this project
-This is the evaluation for Consult - 
+This is the evaluation for Consult - our product to analyse government consultations using AI: https://github.com/i-dot-ai/consultation-analyser/.
 
 
 ## Setup
