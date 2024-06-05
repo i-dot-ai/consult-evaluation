@@ -1,7 +1,13 @@
 # Consult Evaluation
 
+> [!IMPORTANT]
+> Incubation Project: Consult is an incubation project; as such, we don't recommend using it for critical use cases yet. We are currently in a research stage, trialling the tool for case studies across the Civil Service.
+
+
 ## About this project
-This is the evaluation for Consult - our product to analyse government consultations using AI: https://github.com/i-dot-ai/consultation-analyser/.
+This is the evaluation for Consult - our product to analyse government consultations using AI. More information on the project here: https://ai.gov.uk/projects/consultations/. The repository for the tool is here: https://github.com/i-dot-ai/consultation-analyser/.
+
+Detailed docs including evaluation approach can be found in `docs/`.
 
 
 ## Setup
