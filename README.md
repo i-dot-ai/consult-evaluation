@@ -17,9 +17,13 @@ Make sure you have Python 3.12, `poetry` and `precommit` installed on your lapto
 For linting and formatting: `make check-python-code` and `make format-python-code`. See the `Makefile` for more details (`make help`).
 
 
-## Data
+## Data & outputs
 
-Do **NOT** commit any data to this repo. Store all data in a `data/` folder. 
+Do **NOT** commit any data to this repo. Store all data in a `data/` folder (should be in `.gitignore` but do check). 
+
+There is a pre-commit tool to strip out any data from a Jupyter Notebook - be warned!
+
+Similarly, store outputs in a folder that is not committed (add details to README at this stage).
 
 
 ## Environment variables

@@ -8,12 +8,13 @@ files = '**/*.py'
 [tool.poetry]
 name = "consult-evaluation"
 version = "0.1.0"
-description = ""
+description = "Evaluation for Consult"
 authors = ["i.AI <i-dot-ai-enquiries@cabinetoffice.gov.uk>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "3.12.3"
+nbstripout = "^0.7.1"
 
 [tool.poetry.group.development.dependencies]
 ruff = "^0.4.4"
