@@ -1,8 +1,7 @@
+from typing import Dict, List
 
-from typing import List, Dict
-
-from gensim.models import CoherenceModel
 from gensim.corpora import Dictionary
+from gensim.models import CoherenceModel
 
 
 def calculate_coherence(topics: Dict[str, List[str]], texts: List[List[str]]) -> float:

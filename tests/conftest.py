@@ -20,12 +20,11 @@ def question_responses():
         "If I could ask for one thing it would be a stout or porter!",
         "Love the vibe!",
         "Really tasty, but the waiter was a bit slow to take our order.",
-        "The waiter was very helpful with suggestions."
-        "Loved the pizza crust and extra cheese!",
+        "The waiter was very helpful with suggestions." "Loved the pizza crust and extra cheese!",
         "My kind of vibe, great atmosphere and music.",
         "Would go back just for beer, especially the lager!",
         "Not sure about the decor, perhaps not my taste. But the music and vibe was great.",
-        "Couldn't get better service than that. The staff were super accomodating and friendly."
+        "Couldn't get better service than that. The staff were super accomodating and friendly.",
     ]
     return docs
 

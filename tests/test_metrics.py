@@ -1,5 +1,5 @@
-from consult_evaluation.utils import tokenize_docs
 from consult_evaluation.unsupervised.metrics import calculate_coherence
+from consult_evaluation.utils import tokenize_docs
 
 
 def test_calculate_coherence_with_valid_inputs(bertopic_mapping, question_responses):
