@@ -19,7 +19,6 @@ def calculate_coherence(topics: Dict[str, List[str]], texts: List[List[str]]) ->
     # At the moment ID is a string - from data download can use UUID or topic_id
     # to identify.
     topic_keywords = list(topics.values())
-    print(f"topic_keywords: {topic_keywords}")
     vocab = Dictionary(texts)
     coherence_model = CoherenceModel(
         topics=topic_keywords,
