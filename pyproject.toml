@@ -19,7 +19,7 @@ gensim = "^4.3.2"
 scipy = "~1.12"
 
 [tool.poetry.group.development.dependencies]
-ruff = "^0.4.4"
+ruff = "^0.4.9"
 pre-commit = "^3.7.1"
 mypy = "^1.10.0"
 
