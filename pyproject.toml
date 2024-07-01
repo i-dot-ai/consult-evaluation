@@ -16,10 +16,10 @@ readme = "README.md"
 python = "3.12.3"
 nbstripout = "^0.7.1"
 gensim = "^4.3.2"
-scipy = "~1.12"
+scipy = "~1.14"
 
 [tool.poetry.group.development.dependencies]
-ruff = "^0.4.4"
+ruff = "^0.5.0"
 pre-commit = "^3.7.1"
 mypy = "^1.10.0"
 
